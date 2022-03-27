@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CMIUICXCore": {
+      "commandName": "Project",
+      "commandLineArgs": "--console --environment=\"Development\"",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": "true"
+    }
+  }
+}

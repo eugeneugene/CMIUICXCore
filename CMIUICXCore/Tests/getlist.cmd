@@ -1,0 +1,1 @@
+curl -kv -X POST -d @getlist.json -H "Content-Type: application/json; charset=utf-8" http://172.16.0.24:1090/getlist
